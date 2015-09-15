@@ -1,6 +1,6 @@
 # 2015lab1
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/skibum55/2015lab1)
 
 Lets talk a bit about how labs and sections work in cs109:
 
